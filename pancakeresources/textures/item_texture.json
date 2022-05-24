@@ -1,0 +1,7 @@
+{
+	"texture_data": {
+		"pancake_spawn_egg": {
+			"textures": ["textures/items/pancake_spawn_egg"]
+		}
+	}
+}
