@@ -17,6 +17,12 @@
 			},
 			"minecraft:push_through": {
 				"value": 1
+			},
+			"minecraft:leashable": {
+				"max_distance": 20,
+				"can_be_stolen": false,
+				"soft_distance": 1,
+				"hard_distance": 20
 			}
 		}
 	}
