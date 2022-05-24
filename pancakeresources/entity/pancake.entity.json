@@ -1,0 +1,21 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "markzuckerberg:pancake",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/pancake"
+			},
+			"geometry": {
+				"default": "geometry.pancake"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"texture": "pancake_spawn_egg"
+			}
+		}
+	}
+}
