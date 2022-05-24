@@ -2,23 +2,45 @@
 	"format_version": 2,
 	"header": {
 		"name": "Pancake",
-		"description": "Pancake Resource Pack",
-		"uuid": "2009fa65-5501-4a61-d3f6-0670ab86c703",
-		"version": [1, 0, 0],
-		"min_engine_version": [1, 16, 0]
+		"description": "Pancake Resource Pack v1.1.0",
+		"uuid": "2009fa65-5501-4a61-d3f6-0670ab86c704",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			16,
+			0
+		]
 	},
 	"metadata": {
-		"authors": ["Markzuckerberg"],
+		"authors": [
+			"Markzuckerberg"
+		],
 		"generated_with": {
-			"blockbench_entity_wizard": ["1.0.7"]
+			"blockbench_entity_wizard": [
+				"1.0.7"
+			],
+			"bridge": [
+				"2.2.9"
+			],
+			"dash": [
+				"0.8.11"
+			]
 		}
 	},
 	"modules": [
 		{
 			"description": "Pancake",
 			"type": "resources",
-			"uuid": "e83c46b7-3694-2644-dba7-09fdf5f8249c",
-			"version": [1, 0, 0]
+			"uuid": "e83c46b7-3694-2644-dba7-09fdf5f82494",
+			"version": [
+				1,
+				0,
+				0
+			]
 		}
 	]
 }
